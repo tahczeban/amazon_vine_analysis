@@ -1,6 +1,9 @@
 # amazon_vine_analysis
 
-***RESOURCES:*** Amazon Web Services (AWS), Amazon Reviews, Colaboratory Notebook, Jupyter Notebook, Python, PySpark, pgAdmin, Pandas, SQL, VSC
+***RESOURCES:*** 
+
+SOFTWARE: Amazon Web Services (AWS), Colaboratory Notebook, Jupyter Notebook, Python, PySpark, pgAdmin, Pandas, SQL, VSC
+DATA SOURCES: Amazon s3 bucket resources, SQL table schema, Amazon ETL starter code
 _________________________________
 
 ***OVERVIEW:***
