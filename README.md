@@ -2,11 +2,16 @@
 
 ***RESOURCES:*** 
 
-SOFTWARE: Amazon Web Services (AWS), Colaboratory Notebook, Jupyter Notebook, Python, PySpark, pgAdmin, Pandas, SQL, VSC
+SOFTWARE: Amazon Web Services (AWS) RDS, Google Colaboratory Notebook, Jupyter Notebook, Python, PySpark, pgAdmin, Pandas, SQL, VSC
 DATA SOURCES: Amazon s3 bucket resources, SQL table schema, Amazon ETL starter code
 _________________________________
 
 ***OVERVIEW:***
+
+big data
+
+
+
 
 <img width="1423" alt="s3buckets_healthcare_table" src="https://user-images.githubusercontent.com/90135381/155857287-19bec0aa-3635-49f2-b6c4-830c8df470dd.png">
 
@@ -19,6 +24,9 @@ _________________________________
 ___________________________________
 
 ***RESULTS:***
+
+***DELIVERABLE 1: Perform ETL (extract, transform, load) on Amazon Products Review***
+
 
 <img width="1428" alt="customers_id_table-colab" src="https://user-images.githubusercontent.com/90135381/155857324-c7fa348e-cd9b-4843-ab88-e5547f7762ec.png">
 
@@ -59,6 +67,8 @@ ___________________________________
 
 
                                             Figure 10: Vine DF Table-pgAdmin
+                                            
+***DELIVERABLE 2: Determine Bias of Vine Reviews***
                                             
 
 <img width="1422" alt="vine_review_analysis_output" src="https://user-images.githubusercontent.com/90135381/155857285-a91e26eb-208f-448f-98be-53711e49f89d.png">
