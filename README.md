@@ -8,15 +8,16 @@ _________________________________
 
 ***OVERVIEW:***
 
-The purpose of this Challenge was to assist Jennifer with a big data analysis and perform ETL on 'Amazon's Health Care Products' review. Such were written by members of the paid Amazon Vine program, where companies such as Sellby pay a nominal fee to Amazon for reviews on their respective products. PySpark was utilized to extract, transform and load the data into pgAdmin. Connections between AWS, pgAdmion and Google colab were completed to address the analysis, due to the nature of the large data size (Deliverable 1). The second step was to determine the posssible incidence of bias between paid and unpaid vine reviews using PySpark, Pandas and SQL (Deliverable 2).
-
-
+The purpose of this Challenge was to assist Jennifer with a big data analysis and perform ETL on 'Amazon's Healthcare Products' review in CSV format. Such were written by members of the paid Amazon Vine program, where companies such as Sellby pay a nominal fee to Amazon for reviews on their respective products. PySpark was utilized to extract, transform and load the data into pgAdmin. Connections between AWS, pgAdmion and Google colab were completed to address the analysis, due to the nature of the large data size, which could be  stored in Amazon's S3: simple storage service . This was done to avoid the constraints of a single computer stprage system. (Deliverable 1). The second step was to determine the posssible incidence of bias between paid and unpaid vine reviews using PySpark, Pandas and SQL (Deliverable 2).
 
 
 
 <img width="1423" alt="s3buckets_healthcare_table" src="https://user-images.githubusercontent.com/90135381/155857287-19bec0aa-3635-49f2-b6c4-830c8df470dd.png">
 
                                         FIGURE 1: Access to Amazon Healthcare Table-Colab
+                                        
+In Deliverable 1, the Healcare table was extracted for scrutiny (ETL) from Amazon's website. 
+
 
 <img width="1428" alt="aws_connection-colab" src="https://user-images.githubusercontent.com/90135381/155857277-da2fb602-49e6-45b9-8646-57d7fd896151.png">
 
@@ -27,6 +28,12 @@ ___________________________________
 ***RESULTS:***
 
 ***DELIVERABLE 1: Perform ETL (extract, transform, load) on Amazon Products Review***
+
+The dataset was extracted and cleaned/transformed into  4 Data Frames:
+1. Customers_table_df
+2. Products_table_df
+3. Review_id_table_df
+4. Vine_table_df
 
 
 <img width="1428" alt="customers_id_table-colab" src="https://user-images.githubusercontent.com/90135381/155857324-c7fa348e-cd9b-4843-ab88-e5547f7762ec.png">
