@@ -1,7 +1,7 @@
 # amazon_vine_analysis
 
-***RESOURCES***
-SOFTWARE: Amazon Web Services (AWS), Colaboratory Notebook, Jupyter Notebook, Python, PySpark, PgAdmin, Pandas, SQL, VSC
+***RESOURCES*** Amazon Web Services (AWS), Colaboratory Notebook, Jupyter Notebook, Python, PySpark, PgAdmin, Pandas, SQL, VSC
+_________________________________
 
 ***OVERVIEW***
 
@@ -10,7 +10,7 @@ SOFTWARE: Amazon Web Services (AWS), Colaboratory Notebook, Jupyter Notebook, Py
 
 <img width="1428" alt="aws_connection-colab" src="https://user-images.githubusercontent.com/90135381/155857277-da2fb602-49e6-45b9-8646-57d7fd896151.png">
 
-
+___________________________________
 
 ***RESULTS***
 
@@ -54,17 +54,10 @@ SOFTWARE: Amazon Web Services (AWS), Colaboratory Notebook, Jupyter Notebook, Py
 
 
 
-
-
-
-
-
-
-
-
-
-
+_______________________________________________
 
 ***SUMMARY***
 
+
+_________________________________________________
 ***REFERENCES*** BCS, GOOGLE, GitHub, StackOverflow
