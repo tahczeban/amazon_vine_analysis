@@ -112,11 +112,11 @@ As illustrated above, the following data was extrapolated for the counts of tota
 _______________________________________________
 
 ***SUMMARY:***
-1. In conclusion, there may appear to be a positive bias that paid vine reviewers submitted positive reviews for Healthcare products. While the dataset size was adequate, 121,360 in total helpful votes, the ratio of paid reviews was significantly less than the unpaid: 497:120,863, total 5star was 220:74,470 and the percentages of 5star were 44.26:61.61, respectively. Due to the fact that 0.41% comprised paid population representation and 99.59% comprised unpaid voter population, a bias may possibly be articulated due to the fact that there was only a 17.35% difference between paid and unpaid 5star ratings percentages between the two populations. While this may indicate a bias, additional conclusive analysis would have to be performed on the total dataset.
+1. In conclusion, there may appear to be a positive bias that paid vine reviewers submitted positive reviews for Healthcare products. While the dataset size was adequate overall, 121,360 in total helpful votes, the ratio of paid reviews was significantly less than the unpaid: 497:120,863, total 5star was 220:74,470 and the percentages of 5star were 44.26:61.61, respectively. Due to the fact that 0.41% comprised paid population representation and 99.59% comprised unpaid voter population, a bias may possibly be articulated as there was only a 17.35% difference between paid and unpaid 5star ratings percentages between the two populations. While this may indicate a bias, additional conclusive analysis would have to be performed on the total dataset.
  
-2. Additional analyses for the dataset to support this statement would include statistical data calculations, such as mean, median, mode and SD in order to scrutinize the distribution with possible subsequent manipulation of the sampling size via machine learning, etc to ensure that the paid and unpaid participants can represent a more equal presence. 
-3. 
-4. Lastly, different product reviews could also similarly be analyzed to compare bias between Vine reviews overall.
+2. Additional analyses for the dataset to support this statement would include statistical data calculations, such as mean, median, mode and SD in order to scrutinize the distribution with possible subsequent manipulation of the sampling size via machine learning, etc to ensure that the paid and unpaid participants would represent a more equal presence. 
+
+3. Lastly, different product reviews could also similarly be analyzed to compare bias between Vine reviews overall for various products.
 
 _________________________________________________
 ***REFERENCES:*** BCS, GOOGLE, GitHub, StackOverflow
