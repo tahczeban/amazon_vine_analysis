@@ -1,6 +1,7 @@
 # amazon_vine_analysis
 
 ***RESOURCES***
+SOFTWARE: Amazon Web Services (AWS), Colaboratory Notebook, Jupyter Notebook, Python, PySpark, PgAdmin, Pandas, SQL, VSC
 
 ***OVERVIEW***
 
