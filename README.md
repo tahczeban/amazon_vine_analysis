@@ -106,9 +106,7 @@ For Deliverable 2, PySpark, Pandas and SQL were utilized to determine if there w
 As illustrated above, the following data was extrapolated:
 
 
- PAID VINE REVIEWS: total=497                      UNPAID VINE REVIEWS: total=120,863
-                    total 5star reviews=220                             total 5star reviews=120,863
-                    % 5star reviews=44.26%                              % 5star reviews=61.61%
+ <img width="552" alt="TABLE OF PAID AND UNPAID REVIEWS" src="https://user-images.githubusercontent.com/90135381/155897064-b7d57933-6e4b-4f84-ac68-c5ac7f301262.png">
 
 
 _______________________________________________
