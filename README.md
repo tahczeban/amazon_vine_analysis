@@ -8,7 +8,7 @@ _________________________________
 
 ***OVERVIEW:***
 
-The purpose of this Challenge was to assist Jennifer with big data analysis and perform ETL on 'Amazon's Healthcare Products' review. Such were written by members of the paid Amazon Vine program, where companies such as Sellby pay a nominal fee to Amazon for reviews on their respective products. PySpark was utilized to extract, transform and load the data into pgAdmin. Connections between AWS, pgAdmin and Google colab were completed to address the analysis, due to the nature of the large data size, which could be  stored in Amazon's S3: simple storage service . This was done to avoid the constraints of a single computer storage system. (Deliverable 1). The second step was to determine the posssible incidence of bias between paid and unpaid vine reviews using PySpark, Pandas and SQL (Deliverable 2).
+The purpose of this Challenge was to assist Jennifer with big data analysis and perform ETL on 'Amazon's Healthcare Products' review. These were written by members of the paid Amazon Vine program, where companies such as Sellby pay a nominal fee to Amazon for reviews on their respective products. PySpark was utilized to extract, transform and load the data into pgAdmin. Connections between AWS, pgAdmin and Google colab were completed to address the analysis, due to the nature of the large data size, which could be  stored in Amazon's S3: simple storage service . This was done to avoid the constraints of a single computer storage system. (Deliverable 1). The second step was to determine the posssible incidence of bias between paid and unpaid vine reviews using PySpark, Pandas and SQL (Deliverable 2).
 
 
 
