@@ -104,6 +104,8 @@ For Deliverable 2, PySpark, Pandas and SQL were utilized to determine if there w
                                             FIGURE 15: Vine Unpaid DF Table
                                             
 As illustrated above, the following data was extrapolated:
+
+
  PAID VINE REVIEWS: total=497                      UNPAID VINE REVIEWS: total=120,863
                     total 5star reviews=220                             total 5star reviews=120,863
                     % 5star reviews=44.26%                              % 5star reviews=61.61%
