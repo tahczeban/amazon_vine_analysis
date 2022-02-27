@@ -1,4 +1,4 @@
-# amazon_vine_analysis
+# AMAZON_VINE_ANALYSIS
 
 ***RESOURCES:*** 
 
@@ -8,7 +8,8 @@ _________________________________
 
 ***OVERVIEW:***
 
-big data
+The purpose of this Challenge was to assist Jennifer with a big data analysis and perform ETL on 'Amazon's Health Care Products' review. Such were written by members of the paid Amazon Vine program, where companies such as Sellby pay a nominal fee to Amazon for reviews on their respective products. PySpark was utilized to extract, transform and load the data into pgAdmin. Connections between AWS, pgAdmion and Google colab were completed to address the analysis, due to the nature of the large data size (Deliverable 1). The second step was to determine the posssible incidence of bias between paid and unpaid vine reviews using PySpark, Pandas and SQL (Deliverable 2).
+
 
 
 
