@@ -78,7 +78,7 @@ A dataset was chosen from the Amazon Review datsets for Healthcare and a new dat
                                             
 ***DELIVERABLE 2: Determine Bias of Vine Reviews***
 
-For Deliverable 2, PySpark, Pandas and SQL were utilized to determine if there was a bias of the product reviews written under the Vine Program. A comparison was performed for total and percentage of 5 star reviews for both paid and unpaid vine submissions (FIGURES 12 through 15). The data was filtered and a new dataframe was created for total_votes whhich had a count greater than 20. Further filtering was performed and the helpful_votes were divided by total_votes equal to orgreater than 50% and seperated into paid and unpaid dataframes. Finally, the total number of reviews, the number of 5 star reviews and the percentage of 5 star reviews were calculated for bith. 
+For Deliverable 2, PySpark, Pandas and SQL were utilized to determine if there was a bias of the product reviews written under the Vine Program. A comparison was performed for total and percentage of 5 star reviews for both paid and unpaid vine submissions (FIGURES 12 through 15). The data was filtered and a new dataframe was created for total_votes whhich had a count greater than 20. Further filtering was performed and the helpful_votes were divided by total_votes equal to orgreater than 50% and seperated into paid and unpaid dataframes. Finally, the total number of reviews, the number of 5 star reviews and the percentage of 5 star reviews were calculated for both. 
 
 <img width="1422" alt="vine_review_analysis_output" src="https://user-images.githubusercontent.com/90135381/155857285-a91e26eb-208f-448f-98be-53711e49f89d.png">
 
@@ -102,6 +102,11 @@ For Deliverable 2, PySpark, Pandas and SQL were utilized to determine if there w
 <img width="1438" alt="vine_unpaid_table" src="https://user-images.githubusercontent.com/90135381/155857580-d577e7c8-456e-4e96-8d9f-bca9184d28ed.png">
 
                                             FIGURE 15: Vine Unpaid DF Table
+                                            
+As illustrated above, the following data was extrapolated:
+ PAID VINE REVIEWS: total=497                      UNPAID VINE REVIEWS: total=120,863
+                    total 5star reviews=220                             total 5star reviews=120,863
+                    % 5star reviews=44.26%                              % 5star reviews=61.61%
 
 
 _______________________________________________
