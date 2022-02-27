@@ -29,11 +29,11 @@ ___________________________________
 
 ***DELIVERABLE 1: Perform ETL (extract, transform, load) on Amazon Products Review***
 
-The dataset was extracted and cleaned/transformed into  4 Data Frames:
-1. customers_table_df
-2. products_table_df
-3. review_id_table_df
-4. vine_table_df
+A dataset was chosen from the Amazon Review datsets for Healthcare and a new database was created in Amazon RDS server. The dataset was extracted and cleaned/transformed into 4 Data Frames, which were then matched to schema and loaded into pgAdmin for query performance (FIGURES 3 through 10):
+1. customers_table_df: using groupby(), agg(), count(customer_id), withColumnRenamed() to customers table
+2. products_table_df: with select() product_id, product_title, drop_duplicates(), product_ids to products_table
+3. review_id_table_df: with select(), review date to review_id_table
+4. vine_table_df: with select() to vine_table
 
 
 <img width="1428" alt="customers_id_table-colab" src="https://user-images.githubusercontent.com/90135381/155857324-c7fa348e-cd9b-4843-ab88-e5547f7762ec.png">
