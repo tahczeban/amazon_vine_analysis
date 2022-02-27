@@ -8,7 +8,7 @@ _________________________________
 
 ***OVERVIEW:***
 
-The purpose of this Challenge was to assist Jennifer with a big data analysis and perform ETL on 'Amazon's Healthcare Products' review in CSV format. Such were written by members of the paid Amazon Vine program, where companies such as Sellby pay a nominal fee to Amazon for reviews on their respective products. PySpark was utilized to extract, transform and load the data into pgAdmin. Connections between AWS, pgAdmion and Google colab were completed to address the analysis, due to the nature of the large data size, which could be  stored in Amazon's S3: simple storage service . This was done to avoid the constraints of a single computer storage system. (Deliverable 1). The second step was to determine the posssible incidence of bias between paid and unpaid vine reviews using PySpark, Pandas and SQL (Deliverable 2).
+The purpose of this Challenge was to assist Jennifer with big data analysis and perform ETL on 'Amazon's Healthcare Products' review. Such were written by members of the paid Amazon Vine program, where companies such as Sellby pay a nominal fee to Amazon for reviews on their respective products. PySpark was utilized to extract, transform and load the data into pgAdmin. Connections between AWS, pgAdmin and Google colab were completed to address the analysis, due to the nature of the large data size, which could be  stored in Amazon's S3: simple storage service . This was done to avoid the constraints of a single computer storage system. (Deliverable 1). The second step was to determine the posssible incidence of bias between paid and unpaid vine reviews using PySpark, Pandas and SQL (Deliverable 2).
 
 
 
@@ -103,7 +103,7 @@ For Deliverable 2, PySpark, Pandas and SQL were utilized to determine if there w
 
                                             FIGURE 15: Vine Unpaid DF Table
                                             
-As illustrated above, the following data was extrapolated for the counts of total, total 5star and percent 5star for both paid and unapaid reviews, as depicted in tabular format below:
+As illustrated above, the following data was extrapolated for the counts of total, total 5star and percent 5star for both paid and unpaid reviews, as depicted in tabular format below:
 
 
  <img width="552" alt="TABLE OF PAID AND UNPAID REVIEWS" src="https://user-images.githubusercontent.com/90135381/155897064-b7d57933-6e4b-4f84-ac68-c5ac7f301262.png">
@@ -112,10 +112,11 @@ As illustrated above, the following data was extrapolated for the counts of tota
 _______________________________________________
 
 ***SUMMARY:***
-1. In conclusion, there may appear to be a positive bias that paid vine reviewers submitted positive reviews for Healthcare products. While the dataset size was adequate, 121,360 in total helpful votes, the ratio of paid reviews was significantly less than the unpaid: 497:120,863, total 5star was 220:74,470 and the percentages were 44.26:61.61, respectively. Due to the fact that 0.41% comprised paid population representation and 99.59% comprised unpaid voter population, a bias may possibly be articulated. While there was only a 17.35% difference between paid and unpaid 5star ratings percentages between the two populations, which may indicate a bias, additional conclusive analysis would have to be performed on the total dataset.
+1. In conclusion, there may appear to be a positive bias that paid vine reviewers submitted positive reviews for Healthcare products. While the dataset size was adequate, 121,360 in total helpful votes, the ratio of paid reviews was significantly less than the unpaid: 497:120,863, total 5star was 220:74,470 and the percentages of 5star were 44.26:61.61, respectively. Due to the fact that 0.41% comprised paid population representation and 99.59% comprised unpaid voter population, a bias may possibly be articulated due to the fact that there was only a 17.35% difference between paid and unpaid 5star ratings percentages between the two populations. While this may indicate a bias, additional conclusive analysis would have to be performed on the total dataset.
  
-2. Additional analyses for the dataset to support this statement would include statistical data calculations, such as mean, median, mode and SD in order to scrutinize the distribution with possible subsequent manipulation of the sampling size via machine learning,, etc to ensure that the paid and unpaid participants can represent a more equal presence. 
-3. Lastly, different product reviews could also similarly be analyzed to compare bias between Vine reviews overall.
+2. Additional analyses for the dataset to support this statement would include statistical data calculations, such as mean, median, mode and SD in order to scrutinize the distribution with possible subsequent manipulation of the sampling size via machine learning, etc to ensure that the paid and unpaid participants can represent a more equal presence. 
+3. 
+4. Lastly, different product reviews could also similarly be analyzed to compare bias between Vine reviews overall.
 
 _________________________________________________
 ***REFERENCES:*** BCS, GOOGLE, GitHub, StackOverflow
