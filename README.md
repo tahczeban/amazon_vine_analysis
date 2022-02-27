@@ -34,9 +34,7 @@
 <img width="1440" alt="pgadmin-vine_table" src="https://user-images.githubusercontent.com/90135381/155857561-2d3a216e-8557-4b1a-b9d6-6b2ed1fca787.png">
 
 
-
-<img width="1428" alt="customers_id_table-colab" src="https://user-images.githubusercontent.com/90135381/155857569-e6474203-8838-4daa-9356-eeb4bd60a035.png">
-
+<img width="1422" alt="vine_review_analysis_output" src="https://user-images.githubusercontent.com/90135381/155857285-a91e26eb-208f-448f-98be-53711e49f89d.png">
 
 
 <img width="1433" alt="helpful_votes_table-colab" src="https://user-images.githubusercontent.com/90135381/155857570-8d8b4801-6118-487e-a874-798b7250b625.png">
@@ -56,8 +54,6 @@
 
 
 
-
-<img width="1422" alt="vine_review_analysis_output" src="https://user-images.githubusercontent.com/90135381/155857285-a91e26eb-208f-448f-98be-53711e49f89d.png">
 
 
 
