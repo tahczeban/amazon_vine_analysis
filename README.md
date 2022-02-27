@@ -112,7 +112,9 @@ As illustrated above, the following data was extrapolated for the counts of tota
 _______________________________________________
 
 ***SUMMARY:***
-
+In conclusion, there does not appear to be a positive bias that paid vine reviewers for positive reviews. While the dataset size was adequate, 121,360  in total votes, the ratio of paid reviews were less than the unpaid, as the unpaid had greater participation: 497:120,863, total 5star was 220:74,470 and the percentages were 44.26:61.61 for paid and unpaid reviews, respectively.
+ 
+ additional analysis for dataset to support statement would inclus=de statistical data, such as mean, median, mode and SD and normalize the distribution 
 
 _________________________________________________
 ***REFERENCES:*** BCS, GOOGLE, GitHub, StackOverflow
