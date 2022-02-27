@@ -29,7 +29,7 @@ ___________________________________
 
 ***DELIVERABLE 1: Perform ETL (extract, transform, load) on Amazon Products Review***
 
-A dataset was chosen from the Amazon Review datsets for Healthcare and a new database was created in Amazon RDS server. The dataset was extracted and cleaned/transformed into 4 Data Frames, which were then matched to schema and loaded into pgAdmin for query performance (FIGURES 3 through 10):
+A dataset was chosen from the Amazon Review datsets for Healthcare and a new database was created in Amazon RDS server. The dataset was extracted and cleaned/transformed into 4 Data Frames, which were then matched to schema and loaded into pgAdmin for query check to examine (FIGURES 3 through 10):
 1. customers_table_df: using groupby(), agg(), count(customer_id), withColumnRenamed() to customers table
 2. products_table_df: with select() product_id, product_title, drop_duplicates(), product_ids to products_table
 3. review_id_table_df: with select(), review date to review_id_table
