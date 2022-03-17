@@ -1,9 +1,15 @@
 # AMAZON_VINE_ANALYSIS
 
+![image](https://user-images.githubusercontent.com/90135381/158720441-94ca871d-4307-4758-b373-1019e80ca36e.jpeg)
+
+
 ***RESOURCES:*** 
 
 SOFTWARE: Amazon Web Services (AWS) RDS, Google Colaboratory Notebook, Jupyter Notebook, Python, PySpark, pgAdmin, Pandas, SQL, VSC
+
 DATA SOURCES: Amazon s3 bucket resources, SQL table schema, Amazon ETL starter code
+
+IMAGE: obtained from: https://www.cleanpng.com/png-vine-ivy-clip-art-ivy-hanging-vines-png-624822/
 _________________________________
 
 ***OVERVIEW:***
